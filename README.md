@@ -1,7 +1,7 @@
 # Challenge--Module--1
 
 
-Marketing Agency website that has a codebase that follows accessibility standards and is optimized for search engines
+Refactoring Marketing Agency website. Ensuring that it has a codebase that follows accessibility standards and is optimized for search engines
 
 ## Installation
 
